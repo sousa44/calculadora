@@ -28,11 +28,7 @@ Este projeto tem como objetivo simular uma calculadora de quatro operações. A 
 
 ---
 
-## 📸 Captura de Tela
 
-### 💻 Interface da Calculadora
-
-![Imagem da Calculadora](fotoCalculadora.png)
 
 ---
 
@@ -53,8 +49,7 @@ calculadora/
 ├── fotoCalculadora.png # Captura de tela da interface
 └── README.md # Este arquivo
 
-yaml
-Copiar código
+
 
 ---
 
