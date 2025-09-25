@@ -32,7 +32,7 @@ Este projeto tem como objetivo simular uma calculadora de quatro operações. A 
 
 ### 💻 Interface da Calculadora
 
-<img src="./fotoCalculadora.png" alt="Imagem da calculadora" width="400px"/>
+![Imagem da Calculadora](fotoCalculadora.png)
 
 ---
 
@@ -64,6 +64,3 @@ Copiar código
 
    ```bash
    git clone https://github.com/sousa44/calculadora.git
-
-
-
