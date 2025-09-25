@@ -29,7 +29,7 @@ Este projeto tem como objetivo simular uma calculadora de quatro operações. A 
 
 ---
 
-[![License: MIT](https://img.calculadora.png/badge/License-MIT-blue.svg)](LICENSE)
+[![License: MIT](https://github.com/sousa44/calculadora/blob/main/imagemCalculadorExemplo.png/badge/License-MIT-blue.svg)](LICENSE)
 
 
 
