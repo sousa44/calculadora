@@ -28,6 +28,5 @@ Este projeto tem como objetivo simular uma calculadora de quatro operações. A 
 
 ## 📸 Capturas de Tela
 
-> Substitua pelas imagens reais do seu projeto ou use as imagens abaixo como exemplo.
 
-### 💻 Interface principal
+
