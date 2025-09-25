@@ -6,6 +6,8 @@
 
 Uma calculadora simples desenvolvida com **HTML, CSS e JavaScript**, com funcionalidades básicas para operações aritméticas. Este projeto foi criado como exercício prático de manipulação do DOM, lógica e design de interface.
 
+![Interface da Calculadora](fotoCalculadora.png)
+
 ---
 
 ## 🚀 Visão Geral
