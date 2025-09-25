@@ -1,6 +1,8 @@
- 🧮 Calculadora
 
 
+# 🧮 Calculadora
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Uma calculadora simples desenvolvida com **HTML, CSS e JavaScript**, com funcionalidades básicas para operações aritméticas. Este projeto foi criado como exercício prático de manipulação do DOM, lógica e design de interface.
 
@@ -26,7 +28,42 @@ Este projeto tem como objetivo simular uma calculadora de quatro operações. A 
 
 ---
 
-## 📸 Capturas de Tela
+## 📸 Captura de Tela
+
+### 💻 Interface da Calculadora
+
+<img src="./fotoCalculadora.png" alt="Imagem da calculadora" width="400px"/>
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+
+---
+
+## 📁 Estrutura do Projeto
+
+calculadora/
+├── calculador.html # Página principal
+├── calculador.css # Estilos visuais
+├── calculador.js # Lógica da calculadora
+├── fotoCalculadora.png # Captura de tela da interface
+└── README.md # Este arquivo
+
+yaml
+Copiar código
+
+---
+
+## ▶️ Como Executar
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/sousa44/calculadora.git
 
 
 
