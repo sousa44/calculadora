@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "bootstrap-4.1.3-dist",
+			"path": "../bootstrap/grids/bootstrap-4.1.3-dist"
+		},
+		{
+			"name": "projetos",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projetos"
+	}
+}

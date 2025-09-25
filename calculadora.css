@@ -1,0 +1,89 @@
+/* estrutura */
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#container{
+    height: 900px;
+}
+
+#calculadora{
+    position: relative;
+    top: 100px;
+    height: 60%;
+    background-color: rgb(16, 15, 15);
+    border-radius: 20px 20px 20px;
+}
+
+.borda{
+    height: 22px;
+     border-radius: 20px 20px 20px;
+}
+
+.circulo{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    bottom: 8px;
+    margin-right: 2px;
+
+
+}
+
+.numero{
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+    font-size: 15px;
+    padding-top: 2pzx;
+    
+   
+}
+
+
+.numeroMaior{
+    width: 100px;
+    height: 40px;
+    margin-left: 20px;
+    font-size: 20px;
+   
+}
+
+#igual{
+    border-radius: 20px 20px 100px;
+
+}
+
+#containerNumeros{
+    padding: 10px;
+    text-align: center;
+}
+
+.simbolo{
+    background-color: rgb(206, 198, 198);
+}
+
+.simboloAmarelo{
+    background-color: orange;
+    color: white;
+}
+
+.valor{
+    background-color: gray;
+    color: white;
+    font-weight: bold;
+}
+
+.numero:hover{
+    cursor: pointer;
+    background-color: orange;
+}
+
+.simboloAmarelo:hover{
+    background-color: rgb(129, 129, 122);
+}
+
+
+
